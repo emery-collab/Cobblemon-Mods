@@ -23,13 +23,15 @@ Welcome, this is a dedicated cobblemon server we've taken a few days to curate f
 - The IP is: 
 - Click yes to download the resource pack when prompted upon joining
 
+<img width="1510" height="802" alt="Image" src="https://github.com/user-attachments/assets/ff90f9fe-148e-4855-ba53-0dc6d5a44994" />
+
 ### Optional
 - Download [Bliss Shaders](https://www.dropbox.com/scl/fi/as4qecmohh9ajud3ba5aq/Bliss_v2.1.2_-Chocapic13_Shaders_edit.zip?rlkey=djgw7xyz8f2cob65glgzvhwqx&st=6kwf2tux&dl=1) <sub>they make some of the glowing pokemon/legendaries look sick</sub>
 - Open your minecraft shaderpacks folder. Do this by pressing **Windows Key** + **R** on your keyboard, typing in %appdata%, hit enter, open the **.minecraft** folder, then the **shaderpacks** folder
 - Place the zipped shader into your **shaderpacks** folder
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e6bee209-c723-45af-b93c-25a792753853" />
 - Once you are in game, enable the shader in your video settings.
-<img width="1510" height="802" alt="Image" src="https://github.com/user-attachments/assets/ff90f9fe-148e-4855-ba53-0dc6d5a44994" />
+
 
 
 

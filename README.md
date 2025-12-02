@@ -12,7 +12,7 @@ Welcome, this is a dedicated cobblemon server we've taken a few days to curate f
 <img width="431" height="254" alt="Image" src="https://github.com/user-attachments/assets/9258ac05-d104-4e06-87f7-bd8edeb2be28" />
 
 ### Mods
-- Download the [mods](https://www.dropbox.com/scl/fi/5evl6xe18g5kvcrg68rio/mods.zip?rlkey=n9su2p83pvm8jirf4s0g4dw7m&st=li50qlll&dl=1)
+- Download the [mods](https://www.dropbox.com/scl/fi/vxeqipce4j8rmzu6hxpsz/mods.zip?rlkey=a9bkfoh2shd8c1qjo0oxo5zja&st=h2wlqigt&dl=1)
 - Open the zip file 
 - Open your minecraft mods folder. Do this by pressing **Windows Key** + **R** on your keyboard, typing in %appdata%, hit enter, open the **.minecraft** folder, then the **mods** folder
 - Extract the contents of the downloaded zip file into the minecraft mods folder
@@ -42,14 +42,13 @@ Welcome, this is a dedicated cobblemon server we've taken a few days to curate f
 Cobblemon Mods
 - Cobblemon
 - Legendary Monuments
-</br><sub>Chipped, Trinkets, Cobblefurnies, Showdown</sub>
+</br><sub>Chipped, Trinkets, Cobblefurnies, Showdown, Resourceful Lib, Athena, Accessories, Accessories Compatibility</sub>
 </br>
 
 - Mega Showdown
 - Simple TMs and TRs
-</br><sub>Architectury</sub>
+</br><sub>Architectury, Accessories</sub>
 </br>
-
 
 - Radical Cobblemon Trainers
 </br><sub>RCT Badges, RCT API, Forge API Port, RCT Textures</sub>
@@ -65,6 +64,9 @@ Cobblemon Mods
 
 - Cobblemon Gacha Machine
 - Cobblemon Knowology
+</br><sub>Knowology Book, Owo-Lib, Lavender</sub>
+</br>
+
 - Cobblemon Unchained
 </br><sub>Tim Core, Counter</sub>
 </br>
@@ -85,7 +87,6 @@ Data Packs
 - Missingmons
 - MysticMons
 - AllTheMons
-- 
 
 Resource Packs
 - RCT Textures
@@ -108,6 +109,9 @@ Misc Mods
 - Chunks Without Borders
 - Iris <sub>(Shader functionality for fabric)</sub>
 - Waystones
+</br><sub>Balm</sub>
+</br>
+
 - Journeymap
 
 Shaders

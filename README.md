@@ -35,6 +35,10 @@ Welcome, this is a dedicated cobblemon server we've taken a few days to curate f
 - Once you are in game, enable the shader in your video settings by going options, video settings, shaderpacks, and selecting bliss shaders. Then click apply.
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a63e7151-dda2-4d3c-a95d-58e3a76af741" />
 
+## Important Notice
+If you're using shaders, the cobblemon and player nameplates will be too dark to see by default. To fix this:
+- In your minecraft settings, under accessibility, set **Text Background** to ***everywhere*** and set **Text Background Opacity** to ***0%***
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/dd1b8857-749e-4706-a757-b9b101d21bfc" />
 
 
 </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>

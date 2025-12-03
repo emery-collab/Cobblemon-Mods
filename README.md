@@ -30,8 +30,9 @@ Welcome, this is a dedicated cobblemon server we've taken a few days to curate f
 - Open your minecraft shaderpacks folder. Do this by pressing **Windows Key** + **R** on your keyboard, typing in %appdata%, hit enter, open the **.minecraft** folder, then the **shaderpacks** folder
 - Place the zipped shader into your **shaderpacks** folder
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e6bee209-c723-45af-b93c-25a792753853" />
-- Once you are in game, enable the shader in your video settings.
 
+- Once you are in game, enable the shader in your video settings.
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c31f5d2b-dd3a-4f47-85fb-a6d81fd75d55" />
 
 
 

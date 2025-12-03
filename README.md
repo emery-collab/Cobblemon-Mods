@@ -22,6 +22,7 @@ Welcome, this is a dedicated cobblemon server we've taken a few days to curate f
 - Ask to be whitelisted in the discord
 - The IP is: 
 - Click yes to download the resource pack when prompted upon joining
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c31f5d2b-dd3a-4f47-85fb-a6d81fd75d55" />
 
 <img width="1501" height="801" alt="Image" src="https://github.com/user-attachments/assets/94afcce5-c565-4be9-a9fb-5ce74328b650" />
 
@@ -32,7 +33,7 @@ Welcome, this is a dedicated cobblemon server we've taken a few days to curate f
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7860e6c9-7218-4295-b2a6-fa42db5dc344" />
 
 - Once you are in game, enable the shader in your video settings.
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c31f5d2b-dd3a-4f47-85fb-a6d81fd75d55" />
+
 
 
 

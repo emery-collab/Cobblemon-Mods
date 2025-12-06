@@ -12,7 +12,7 @@ Welcome, this is a dedicated cobblemon server we've taken a few days to curate f
 <img width="431" height="254" alt="Image" src="https://github.com/user-attachments/assets/9258ac05-d104-4e06-87f7-bd8edeb2be28" />
 
 ### Mods
-- Download the [mods](https://www.dropbox.com/scl/fi/0fkuomjxmbuss3a3wfwv0/mods.zip?rlkey=vyv8tpqf67f18f5abulnn5cwp&st=pevok552&dl=1)
+- Download the [mods](https://www.dropbox.com/scl/fi/1eo5ppax5e5pube4px02s/mods.zip?rlkey=q3ged469srlojez28pf1q8bbj&st=fnbvci39&dl=1)
 - Open the zip file 
 - Open your minecraft mods folder. Do this by pressing **Windows Key** + **R** on your keyboard, typing in %appdata%, hit enter, open the **.minecraft** folder, then the **mods** folder
 - Extract the contents of the downloaded zip file into the minecraft mods folder
